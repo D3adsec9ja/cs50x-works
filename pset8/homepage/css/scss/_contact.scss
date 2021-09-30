@@ -1,0 +1,19 @@
+.contact-form {
+  padding: 59px;
+  background: $background;
+  height: 99vh;
+
+  h2 {
+    margin: 0 auto;
+    padding: 0 0 19px 0;
+  }
+  input,
+  textarea {
+    padding: 3px;
+    margin-bottom: 9px;
+  }
+
+  .btn {
+    margin-top: 19px;
+  }
+}

@@ -1,0 +1,5 @@
+Prompt user for height
+If height is less than 1 or greater than 8 (or not an integer at all), repeat from the top
+print from 1 to the number typed :
+then using formular that prints spaces instead of dots which will be less than or equal to the number typed
+print both spaces and hashes and then a newline

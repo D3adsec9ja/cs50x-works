@@ -1,0 +1,24 @@
+sort1 uses: Bubble sort
+
+How do you know?: Bubble sort works fastest when going through sorted texts and when sort1 was ran against sorted50000.txt, it came out ontop with a time of 10.255s
+                       compared to sort2 and sort3's 17.660s aand 10.411s respectively.
+
+sort2 uses: Merge sort
+
+How do you know?: Merge sort works fastest when going through random texts and when sort2 was ran against Random5000.txt, it came out ontop with a time of 0.017s
+                       compared to sort1 and sort3's 0.058s aand 0.033s respectively.
+
+sort3 uses: Selection sort
+
+How do you know?: Selection sort isnt as fast as bubble sort but faster than merge sort when it comes to sorted texts and it always came in second place when ran on sorted5000.txt,
+                       sorted50000.txt, sorted10000.txt and their values are as shown below.
+
+                       sorted5000.txt: sort1 = 0.012s
+                                       sort2 = 0.016s
+                                       sort3 = 0.014s
+                       sorted50000.txt: sort1 = 10.255s
+                                        sort2 = 17.660s
+                                        sort3 = 14.411s
+                       sorted10000.txt: sort1 = 0.044s
+                                        sort2 = 0.511s
+                                        sort3 = 0.230s

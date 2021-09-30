@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+  "name": "Jumbot",
+  "version": "1.0",
+  "description": "Search for goods on jumia",
+  "icons": {
+    "128": "80672.png",
+    "48": "80671.png",
+    "16": "80670.png"
+  },
+  "background": {
+    "scripts": ["eventpage.js"],
+    "persistent": false
+  },
+  "permissions": ["tabs", "contextMenus"]
+}
